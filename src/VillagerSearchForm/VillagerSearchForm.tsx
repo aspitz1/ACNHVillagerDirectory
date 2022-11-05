@@ -23,8 +23,7 @@ const VillagerSearchForm = () => {
     <section>
       <h3>Villager Search</h3>
       <p>
-        Include all, or any of the below fields. We'll find your villager for
-        you!
+        Include all, or any of the below fields. We'll look for your villager!
       </p>
       <form>
         <input
